@@ -3275,7 +3275,7 @@ textarea {
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
 	font-family: "Font Awesome 5 Pro";
-	background-color: var(--color-primary-3);
+	background-color: var(--color-primary-6);
 	color: var(--color-white);
 	font-size: 13px;
 	display: -webkit-box;
@@ -4567,7 +4567,7 @@ textarea {
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	z-index: -1;
-	background-image: url(../img/preview-gallery/oval-gradient-2.png);
+	background-image: url(../../asset_saya/img/bgbg.jpg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center center;
